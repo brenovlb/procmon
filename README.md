@@ -6,10 +6,9 @@ A simple real-time process monitor CLI tool written in Python for Linux, using d
 
 - Lists running processes with PID and name
 - Displays basic CPU and memory usage
-- Refreshes output in terminal every second
-- Pure Python, no external dependencies
+- Refreshes output in terminal
 
 ## 🛠️ Usage
 
 ```bash
-python procmon.py
+python3 procmon.py
